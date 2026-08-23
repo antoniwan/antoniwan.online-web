@@ -1,6 +1,6 @@
 # antoniwan.online
 
-**This repo is the live site for [antoniwan.online](https://antoniwan.online)** — not the public template.
+**This repo is the live site for [antoniwan.online](https://antoniwan.online).** Not the public template.
 
 | Repo | Role |
 |------|------|
@@ -8,8 +8,8 @@
 | **`antoniwan/antoniwan.online-web`** (this repo) | Antonio's production identity |
 
 - **Edit your content:** `src/config/user-settings.ts` (kept on merge from `upstream` via `.gitattributes`)
-- **Pull template updates:** `git fetch upstream && git merge upstream/main` — resolve conflicts by keeping *your* settings file
-- **Never** `git push upstream` — template work happens in the `links-forest` clone at `~/Developer/apps/links-forest`
+- **Pull template updates:** `git fetch upstream && git merge upstream/main`. Resolve conflicts by keeping *your* settings file.
+- **Never** `git push upstream`. Template work happens in the `links-forest` clone at `~/Developer/apps/links-forest`.
 
 ---
 
@@ -205,8 +205,8 @@ Logs show in the browser console and in the terminal when the dev server is runn
 
 ## Documentation
 
-- [Self-Hosting Guide](./SELF-HOSTING.md) — deploy on Vercel or Netlify
-- [License](./LICENSE.md) — MIT license and project intent
+- [Self-Hosting Guide](./SELF-HOSTING.md): deploy on Vercel or Netlify
+- [License](./LICENSE.md): MIT license and project intent
 - [Astro](https://docs.astro.build) · [Tailwind CSS](https://tailwindcss.com/docs) · [TypeScript](https://www.typescriptlang.org/docs/)
 
 ## Contributing
