@@ -1,3 +1,18 @@
+# antoniwan.online
+
+**This repo is the live site for [antoniwan.online](https://antoniwan.online)** — not the public template.
+
+| Repo | Role |
+|------|------|
+| [`antoniwan/links-forest`](https://github.com/antoniwan/links-forest) | Forkable template (demo identity) |
+| **`antoniwan/antoniwan.online-web`** (this repo) | Antonio's production identity |
+
+- **Edit your content:** `src/config/user-settings.ts` (kept on merge from `upstream` via `.gitattributes`)
+- **Pull template updates:** `git fetch upstream && git merge upstream/main` — resolve conflicts by keeping *your* settings file
+- **Never** `git push upstream` — template work happens in the `links-forest` clone at `~/Developer/apps/links-forest`
+
+---
+
 # LinksForest
 
 A minimalist, themed link-sharing platform. Built with Astro, Tailwind CSS, and Framer Motion. You edit one config file to set your profile, links, theme, and socials; the site builds as static HTML.

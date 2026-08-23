@@ -1,11 +1,11 @@
 {
-  "name": "links-forest",
+  "name": "antoniwan.online-web",
   "type": "module",
   "version": "3.7.0",
-  "description": "A minimalist, themed link-sharing platform powered by Astro, Tailwind, and Framer Motion",
+  "description": "Personal link site for antoniwan.online — downstream of links-forest",
   "repository": {
     "type": "git",
-    "url": "https://github.com/antoniwan/links-forest.git"
+    "url": "https://github.com/antoniwan/antoniwan.online-web.git"
   },
   "homepage": "https://antoniwan.online/",
   "bugs": {
