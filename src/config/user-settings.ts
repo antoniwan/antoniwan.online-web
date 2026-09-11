@@ -251,7 +251,7 @@ export const userSettings: UserSettings = {
       title: 'The Bent One',
       url: 'https://the-bent-one-book.stronghandssoftheart.com',
       description:
-        'A cozy children\'s story about bent branches, soft roots, and finding home in your own shape',
+        'A bilingual (English/Spanish) web picture book about a short line with a bend, and the shapes a line can take depending on where it stands and who it\'s with',
       category: 'writing',
       icon: 'storybook',
     },
