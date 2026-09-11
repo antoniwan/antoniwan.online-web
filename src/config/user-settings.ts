@@ -251,14 +251,14 @@ export const userSettings: UserSettings = {
       title: 'The Bent One',
       url: 'https://the-bent-one-book.stronghandssoftheart.com',
       description:
-        'A bilingual (English/Spanish) web picture book about a short line with a bend, and the shapes a line can take depending on where it stands and who it\'s with',
+        'A bilingual (English and Spanish) kinda-animated web picture book about a short line with a bend, and the shapes a line can take depending on where it stands and who it\'s with',
       category: 'writing',
       icon: 'storybook',
     },
     {
       title: 'Mia, the Sun and the Moon',
       url: 'https://mia-the-sun-and-the-moon-web-book.stronghandssoftheart.com',
-      description: 'A legacy children\'s story about love, light, and the rhythm of day and night',
+      description: 'A bilingual (English and Spanish) children\'s story about love, light, and the rhythm of day and night',
       category: 'writing',
       icon: 'storybook',
     },
