@@ -1,5 +1,8 @@
 # antoniwan.online
 
+> **Retired October 7, 2026.** antoniwan.online is now [antoniwan/antoniwan.online](https://github.com/antoniwan/antoniwan.online). The LinksForest template this was built from is [antoniwan/links-forest](https://github.com/antoniwan/links-forest).
+
+
 **This repo is the live site for [antoniwan.online](https://antoniwan.online).** Not the public template.
 
 | Repo | Role |
